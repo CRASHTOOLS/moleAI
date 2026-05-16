@@ -1,0 +1,4 @@
+requests==2.32.3
+duckduckgo_search==6.1.7
+beautifulsoup4==4.12.3
+ollama==0.4.0
